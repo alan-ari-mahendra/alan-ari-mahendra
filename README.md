@@ -21,3 +21,4 @@ Technical Skills:
 🖌️ Markup & Styling: HTML, CSS, Javascript, React, Laravel Blade, Laravel Livewire, Laravel Inertia, Bootstrap, Tailwind, jQuery<br>
 💾 Databases: MySQL, MariaDB, PostgreSQL, MongoDB, Firebase, Oracle<br>
 🔶 Versioning control: Git<br>
+🔷 Soft skill: Leadership, Availability, Fluent in English, Good Communication<br>
