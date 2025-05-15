@@ -2,7 +2,7 @@ Hi, I'm Alan, a Top Rated Freelancer with 6+ years of web application developmen
 
 Serving the best result for your satisfaction is my priority.
 
-My Service:
+My Service:<br>
 ✔ AI Integration<br>
 ✔ SaaS App Development<br>
 ✔ API Development & Documentation<br>
