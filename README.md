@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alan 👋</h1>
+<h1>Alan Ari Mahendra</h1>
 <p>
   🏆 Top Rated Freelancer &nbsp;|&nbsp; 💻 Full Stack Web Developer &nbsp;|&nbsp; 🚀 6+ Years Experience &nbsp;|&nbsp; 🧠 200+ Projects Delivered
 </p>
