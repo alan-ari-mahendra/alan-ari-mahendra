@@ -79,8 +79,10 @@ I thrive in fast-paced, collaborative environments where innovation and user val
 
 ## 🤝 Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-alanari.com-blue?logo=internet-explorer&logoColor=white)](https://alanari.com)  
+[![Website](https://img.shields.io/badge/Website-alanari.com-blue?logo=googlechrome&logoColor=white)](https://alanari.com)
 [![Upwork](https://img.shields.io/badge/Upwork-View_Profile-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016d252be09416a4b9?mp_source=share)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=SimpleIcons&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMuLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMuOTMxIDExLjIxNmgzLjg3NnYxMi44NDNIMy45MzF6TTUuODcxIDMuOTZjMS4yMzYgMCAyLjIzNyAxLjAwMiAyLjIzNyAyLjIzNyAwIDEuMjM1LTEuMDAxIDIuMjM3LTIuMjM3_)](https://www.linkedin.com/in/alan-ari/)
+
 
 ---
 
