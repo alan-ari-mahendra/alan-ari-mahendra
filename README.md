@@ -1,6 +1,6 @@
 <h1>Alan Ari Mahendra</h1>
 <p>
-  🏆 Top Rated Freelancer &nbsp;|&nbsp; 💻 Full Stack AI Engineer &nbsp;|&nbsp; 🚀 6+ Years Experience &nbsp;|&nbsp; 🧠 38+ Projects Delivered
+  🏆 Top Rated Freelancer &nbsp;|&nbsp; 💻 Full Stack AI Engineer &nbsp;|&nbsp; 🚀 3+ Years Experience &nbsp;|&nbsp; 🧠 38+ Projects Delivered
 </p>
 
 ---
