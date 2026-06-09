@@ -77,11 +77,5 @@ I thrive in fast-paced, collaborative environments where innovation and user val
 
 ---
 
-## 🤝 Connect With Me
-[![Upwork](https://img.shields.io/badge/Upwork-View_Profile-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016d252be09416a4b9?mp_source=share)
-
-
----
-
 _Thanks for visiting! I'm open to freelance opportunities and collaborations._  
 _Let’s build something amazing together._
