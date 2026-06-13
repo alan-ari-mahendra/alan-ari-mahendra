@@ -7,9 +7,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full stack developer with 6+ years of experience crafting scalable and maintainable web applications. I enjoy solving real-world problems through clean code, robust architecture, and intuitive UI/UX.
+I am a Full Stack Developer with over 3 years of experience specializing in building scalable SaaS platforms, high-traffic e-commerce systems, and custom internal tools. Based in Indonesia, I have a proven track record of working asynchronously within distributed product teams and delivering quality solutions for global clients.  
+My core technical strength lies in the JavaScript/TypeScript ecosystem (React, Next.js, Node.js) and PHP (Laravel). 
 
-I thrive in fast-paced, collaborative environments where innovation and user value come first. Strong communication and reliable delivery are my core values.
+To maximize delivery speed and code quality, I heavily integrate AI-assisted development tools (Claude, Cursor, GitHub Copilot) into my daily workflow. I am comfortable overlapping with AEST (Australia), SGT (Singapore), and CET (Europe) business hours.  
 
 ---
 
